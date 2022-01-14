@@ -7,7 +7,7 @@ Network architecture
 
 Network comparison between previous precoding neural network and our proposed network
 
-<img src='Net_comp.png' width='800' alt="" align=center />
+<img src='Net_comp.png' width='600' alt="" align=center />
 
 Experimental results
 
