@@ -11,7 +11,5 @@ Network comparison between previous precoding neural network and our proposed ne
 
 Experimental results
 
-<img src='CNN_based_SEvsSNR_NtRF3_azi60_ele20_cluster4.png' width='800' alt="" align=center />
-<img src='CNN_based_SEvsSNR_NtRF4_azi60_ele20_cluster4.png' width='800' alt="" align=center />
-![](CNN_based_SEvsSNR_NtRF3_azi60_ele20_cluster4.png)
-![](CNN_based_SEvsSNR_NtRF4_azi60_ele20_cluster4.png)
+<img src='CNN_based_SEvsSNR_NtRF3_azi60_ele20_cluster4.png' width='400' alt="" align=center />
+<img src='CNN_based_SEvsSNR_NtRF4_azi60_ele20_cluster4.png' width='400' alt="" align=center />
