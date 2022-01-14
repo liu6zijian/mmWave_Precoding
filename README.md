@@ -6,7 +6,7 @@ Network architecture
 
 Network comparison between previous precoding neural network and our proposed network
 ![](Net_comp.png)
-<img src='Ne_comp.png' width='1000' alt='123'>
+<img src='Ne_comp.png' width='1000' alt="" align=center />
 
 Experimental results
 ![](CNN_based_SEvsSNR_NtRF3_azi60_ele20_cluster4.png)
