@@ -3,12 +3,11 @@ The official source code of paper "A Deep Constrained and Synchronous Training F
 
 Network architecture
 
-<img src='Net_postproc.png' width='500' alt="" align=center />
-
-![](Net_postproc.png)
+<img src='Net_postproc.png' width='800' alt="" align=center />
 
 Network comparison between previous precoding neural network and our proposed network
-<img src='Net_comp.png' width='500' alt="" align=center />
+
+<img src='Net_comp.png' width='800' alt="" align=center />
 
 Experimental results
 ![](CNN_based_SEvsSNR_NtRF3_azi60_ele20_cluster4.png)
