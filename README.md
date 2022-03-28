@@ -1,7 +1,7 @@
 # mmWave_Precoding
 The official source code of paper "A Deep Constrained and Synchronous Training Framework for Hybrid Precoding"
 
-https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9741722
+IEEE Communications Letters https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9741722
 
 We will release the code and data to facilitate future research in hybrid precoding nerual networks in the final version.
 
