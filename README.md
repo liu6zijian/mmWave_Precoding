@@ -19,11 +19,21 @@ Network comparison between previous precoding neural network and our proposed ne
 
 # Citation
 @ARTICLE{9741722,
+
   author={Liu, Zijian and Luo, Yang and Xu, Yan and Luo, Chunbo},
+  
   journal={IEEE Communications Letters}, 
+  
   title={A Deep Constrained and Synchronous Training Framework for Hybrid Precoding}, 
+  
   year={2022},
+  
   volume={26},
+  
   number={6},
+  
   pages={1288-1292},
-  doi={10.1109/LCOMM.2022.3162211}}
+  
+  doi={10.1109/LCOMM.2022.3162211}
+  
+  }
